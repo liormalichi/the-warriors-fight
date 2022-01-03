@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/the-warriors-fight/static/css/main.6928ec09.chunk.css",
+    "main.js": "/the-warriors-fight/static/js/main.37cd710f.chunk.js",
+    "main.js.map": "/the-warriors-fight/static/js/main.37cd710f.chunk.js.map",
+    "runtime-main.js": "/the-warriors-fight/static/js/runtime-main.ec9083ab.js",
+    "runtime-main.js.map": "/the-warriors-fight/static/js/runtime-main.ec9083ab.js.map",
+    "static/js/2.d3fc33b3.chunk.js": "/the-warriors-fight/static/js/2.d3fc33b3.chunk.js",
+    "static/js/2.d3fc33b3.chunk.js.map": "/the-warriors-fight/static/js/2.d3fc33b3.chunk.js.map",
+    "index.html": "/the-warriors-fight/index.html",
+    "static/css/main.6928ec09.chunk.css.map": "/the-warriors-fight/static/css/main.6928ec09.chunk.css.map",
+    "static/js/2.d3fc33b3.chunk.js.LICENSE.txt": "/the-warriors-fight/static/js/2.d3fc33b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9083ab.js",
+    "static/js/2.d3fc33b3.chunk.js",
+    "static/css/main.6928ec09.chunk.css",
+    "static/js/main.37cd710f.chunk.js"
+  ]
+}

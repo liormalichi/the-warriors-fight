@@ -1,10 +1,17 @@
 .title {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-size: 60px;
+  font-size: 100px;
   font-weight: 700;
   color: tomato;
-  letter-spacing: 6px;
+  letter-spacing: 10px;
   margin-bottom: 0px;
   margin-top: 0px;
+}
+
+@media screen and (max-width: 1000px) {
+  .title {
+    font-size: 60px;
+    letter-spacing: 6px;
+  }
 }

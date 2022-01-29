@@ -125,9 +125,9 @@ export default function GamePage(props) {
                     <div class="innerCardPlayer cardShown">{shownPlayer}</div>
                 </div>
                 <div class="player">{name}</div>
+            </div>
 
 
-                </div>
         </div>
 
             

@@ -34,6 +34,10 @@ export default function HomePage(props) {
             <Header title = "WARRIORS"/>
             <input onChange={e => nameValidition(e.target.value)} type="text" placeholder="NickName up to 5 chars"/>
             <div class="btn" onClick= {start}> let the games begin</div>
+            <div className="img" ></div>
+            <div className="img_left" ></div>
+
+
         </div>
     )
 }

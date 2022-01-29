@@ -46,12 +46,12 @@ function App() {
       case pages.end:
         return <EndGame name ={playerName} status={status1} changePage={changePage} wins ={wins} losses ={losses}/>
   
-  }
+   }
   }
      
 
   return (
-    <div className="App">      
+    <div className="App">
       {switchPage(currentPage)}
     </div>
   );

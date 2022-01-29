@@ -29,10 +29,11 @@ export default function EndGamePage(props) {
             <div>
                 <div class="result">{wins} - {losses}</div>
                 <br></br>
-                <button  onClick= {start}> AGAIN!</button>
+                <button  onClick= {start}> AGAIN!</button>              
 
             </div>
-
+            <div className="img" ></div>
+            <div className="img_left" ></div>
         </div>
     )
 }
